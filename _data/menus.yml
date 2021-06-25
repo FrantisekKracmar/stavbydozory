@@ -2,13 +2,13 @@ main:
   - name: "Služby"
     url: "/services/"
     weight: 2
-  - name: "O mně"
+  - name: "Realizované stavby"
     url: "/team/"
     weight: 3
-  - name: "Nevím :)"
+  - name: "O mně"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Kontact"
     url: "/contact/"
     weight: 5
 
