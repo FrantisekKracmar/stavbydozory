@@ -8,7 +8,7 @@ main:
   - name: "O mně"
     url: "/about/"
     weight: 4
-  - name: "Kontact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
 
@@ -16,6 +16,6 @@ footer:
   - name: "Hlavní stránka"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 2
