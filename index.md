@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Danovy vlastní stránky
+# Ing. Daniel Slovák - Váš budoucí stavební dozor
 
 Tohle budou webové stránky.
