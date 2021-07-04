@@ -1,17 +1,17 @@
 [
   {
-    "title": "Technické konzultace při plánování staveb",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Technický dozor investora",
+    "description": "Dohlédnu na úspěšné dokončení Vaší investice.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Technické konzultace při plánování staveb / Technická příprava zakázek",
+    "description": "Od počátečních skic až po poslední cihlu.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Stavební dozor během samotné stavby",
-    "description": "All members of our team are certified accountants.",
+    "title": "Stavební dozor během samotné stavby / Stavbyvedoucí",
+    "description": "Aby stavba proběhla přesně podle plánu.",
     "image": "images/features/noun_The Process_1885341.svg"
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
