@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Ing. Daniel Slovák - Váš budoucí stavební dozor
+# Ing. Daniel Slovák \\ - \\ Váš budoucí stavební dozor
 
-Tohle budou webové stránky.
+Stavební dozor pro velké i malé stavby.
