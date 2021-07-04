@@ -1,8 +1,15 @@
 ---
-title: Kontact
+title: Kontakt
 layout: contact
 bodyClass: page-contact
 ---
+
+Ing. Daniel Slovák
+IČ: 72816091
+732 650 642
+stavbydozory@seznam.cz
+www.stavbydozory.cz
+
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
