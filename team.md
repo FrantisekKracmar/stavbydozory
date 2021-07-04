@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Realizované stavby
 
-Zde naleznete přehled staveb, na kterým jsem pracoval.
+Zde naleznete přehled staveb, na kterých jsem pracoval.
