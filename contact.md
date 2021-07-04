@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontact
 layout: contact
 bodyClass: page-contact
 ---
