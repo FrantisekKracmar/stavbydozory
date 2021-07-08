@@ -10,7 +10,7 @@ homepage:
 logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/logo.png"
-  desktop_height: "60px"
+  desktop_height: "45px"
 
 footer:
   copyright_text: 'Webdesign <a class="zerostatic" href="https://github.com/FrantisekKracmar">František Kráčmar</a>'
@@ -18,12 +18,9 @@ footer:
 seo:
   meta_og_title: "Stavby dozory"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_og_url: "stavbydozory.cz"
+  meta_og_image: "https://raw.githubusercontent.com/FrantisekKracmar/stavbydozory/master/images/illustrations/homepage.png"
+  meta_og_description: "Stavební dozor Ing. Daniel Slovák."
 
 collections:
   services:
