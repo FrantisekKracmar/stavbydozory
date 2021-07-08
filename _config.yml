@@ -13,7 +13,7 @@ logo:
   desktop_height: "45px"
 
 footer:
-  copyright_text: 'Webdesign <a class="zerostatic" href="https://github.com/FrantisekKracmar">František Kráčmar</a>'
+  copyright_text: '© stavbydozory.cz'
 
 seo:
   meta_og_title: "Stavby dozory"
