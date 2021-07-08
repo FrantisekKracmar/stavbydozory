@@ -10,7 +10,7 @@ homepage:
 logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/logo.png"
-  desktop_height: "45px"
+  desktop_height: "60px"
 
 footer:
   copyright_text: 'Webdesign <a class="zerostatic" href="https://github.com/FrantisekKracmar">František Kráčmar</a>'
